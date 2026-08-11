@@ -22,4 +22,8 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
