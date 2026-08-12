@@ -27,6 +27,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -36,4 +37,12 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
