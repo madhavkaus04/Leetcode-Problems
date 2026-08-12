@@ -26,4 +26,9 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
