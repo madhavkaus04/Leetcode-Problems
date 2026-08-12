@@ -13,6 +13,7 @@ https://leetcode.com/u/madhavkaus04/
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -31,4 +32,8 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
