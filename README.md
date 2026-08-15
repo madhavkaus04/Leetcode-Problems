@@ -13,6 +13,7 @@ https://leetcode.com/u/madhavkaus04/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -48,6 +49,7 @@ https://leetcode.com/u/madhavkaus04/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
