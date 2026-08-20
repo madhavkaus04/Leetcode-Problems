@@ -57,6 +57,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Counting Sort
 |  |
 | ------- |
@@ -81,4 +82,12 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
