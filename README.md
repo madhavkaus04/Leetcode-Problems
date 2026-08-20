@@ -58,6 +58,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0520-detect-capital](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Counting Sort
