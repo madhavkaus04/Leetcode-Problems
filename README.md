@@ -16,6 +16,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0001-two-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -37,6 +38,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0007-reverse-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 ## Recursion
@@ -103,4 +105,8 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
