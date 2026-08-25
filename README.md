@@ -15,6 +15,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0001-two-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ https://leetcode.com/u/madhavkaus04/
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
