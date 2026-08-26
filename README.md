@@ -24,6 +24,7 @@ https://leetcode.com/u/madhavkaus04/
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -60,6 +61,7 @@ https://leetcode.com/u/madhavkaus04/
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0520-detect-capital) |
@@ -94,6 +96,7 @@ https://leetcode.com/u/madhavkaus04/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Longest Common Subsequence
 |  |
@@ -111,4 +114,8 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
