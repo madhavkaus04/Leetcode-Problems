@@ -45,6 +45,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
+| [3870-count-commas-in-range](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
