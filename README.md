@@ -44,6 +44,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
+| [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +104,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -129,4 +131,16 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
