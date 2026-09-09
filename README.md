@@ -64,6 +64,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0001-two-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0424-longest-repeating-character-replacement](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -73,6 +74,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -151,6 +153,7 @@ https://leetcode.com/u/madhavkaus04/
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
