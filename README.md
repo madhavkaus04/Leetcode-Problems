@@ -18,6 +18,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0035-search-insert-position](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -59,6 +60,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +77,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
@@ -103,6 +106,7 @@ https://leetcode.com/u/madhavkaus04/
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -131,6 +135,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0079-word-search) |
 ## Manacher
 |  |
 | ------- |
