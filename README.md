@@ -14,6 +14,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
@@ -86,6 +87,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0079-word-search) |
@@ -198,4 +200,8 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
