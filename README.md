@@ -62,6 +62,7 @@ https://leetcode.com/u/madhavkaus04/
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
+| [3959-check-good-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3959-check-good-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -145,6 +146,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
+| [3959-check-good-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3959-check-good-integer) |
 ## Bracket Sequences
 |  |
 | ------- |
