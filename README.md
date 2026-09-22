@@ -55,6 +55,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0007-reverse-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
@@ -96,6 +97,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -152,6 +154,7 @@ https://leetcode.com/u/madhavkaus04/
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [3959-check-good-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3959-check-good-integer) |
