@@ -60,6 +60,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -142,6 +143,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -227,4 +229,8 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
