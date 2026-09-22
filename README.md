@@ -57,6 +57,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0048-rotate-image](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -111,6 +112,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
@@ -216,4 +218,8 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
