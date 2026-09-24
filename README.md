@@ -24,6 +24,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -64,6 +65,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
@@ -89,6 +91,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0001-two-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -243,9 +246,18 @@ https://leetcode.com/u/madhavkaus04/
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 ## Polygons
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
