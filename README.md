@@ -25,6 +25,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0118-pascals-triangle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -66,6 +67,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0069-sqrtx](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
@@ -135,6 +137,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
