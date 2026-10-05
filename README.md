@@ -26,6 +26,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0119-pascals-triangle-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0283-move-zeroes](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -43,6 +44,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
