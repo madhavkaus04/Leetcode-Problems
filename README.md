@@ -27,6 +27,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0313-super-ugly-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -70,6 +71,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0070-climbing-stairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0313-super-ugly-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
@@ -161,6 +163,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0070-climbing-stairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0313-super-ugly-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
