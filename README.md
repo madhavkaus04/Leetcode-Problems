@@ -71,6 +71,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0070-climbing-stairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0313-super-ugly-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0313-super-ugly-number) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
@@ -176,6 +177,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0043-multiply-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [3959-check-good-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3959-check-good-integer) |
 ## Bracket Sequences
@@ -268,4 +270,8 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
