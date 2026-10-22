@@ -57,6 +57,7 @@ https://leetcode.com/u/madhavkaus04/
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ https://leetcode.com/u/madhavkaus04/
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3870-count-commas-in-range](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 | [3959-check-good-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3959-check-good-integer) |
 ## Recursion
@@ -247,6 +249,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Trie
 |  |
 | ------- |
