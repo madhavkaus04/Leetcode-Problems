@@ -39,6 +39,7 @@ https://leetcode.com/u/madhavkaus04/
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ https://leetcode.com/u/madhavkaus04/
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Counting Sort
 |  |
 | ------- |
