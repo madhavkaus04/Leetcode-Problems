@@ -39,6 +39,7 @@ https://leetcode.com/u/madhavkaus04/
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2574-left-and-right-sum-differences](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
@@ -237,6 +238,7 @@ https://leetcode.com/u/madhavkaus04/
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2574-left-and-right-sum-differences](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
