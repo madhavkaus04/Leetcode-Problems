@@ -158,15 +158,18 @@ https://leetcode.com/u/madhavkaus04/
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -291,4 +294,8 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0258-add-digits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
