@@ -11,14 +11,14 @@ class Solution {
             ans.add(new ArrayList<>(list));
             return;
         }
-        for (int i = start; i < a.length; i++) {
-            if (a[i] > target)
+        for (int i= start; i<a.length;i++) {
+            if (a[i] >target)
                 break;
-            if (i > start && a[i] == a[i - 1])
+            if (i>start && a[i]==a[i-1])
                 continue;
             list.add(a[i]);
-            solve(a, target - a[i], i + 1, list, ans);
-            list.remove(list.size() - 1);
+            solve(a, target-a[i], i+1,list,ans);
+            list.remove(list.size()-1);
         }
     }
 } 
