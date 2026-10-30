@@ -47,6 +47,7 @@ https://leetcode.com/u/madhavkaus04/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -219,6 +220,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
