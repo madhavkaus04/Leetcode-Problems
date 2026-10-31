@@ -50,6 +50,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -113,6 +114,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0013-roman-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -225,6 +227,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0024-swap-nodes-in-pairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Brainteaser
 |  |
 | ------- |
