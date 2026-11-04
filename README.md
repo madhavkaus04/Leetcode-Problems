@@ -228,6 +228,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0002-add-two-numbers](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
@@ -282,6 +283,7 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 ## Newton's Method
 |  |
 | ------- |
@@ -320,4 +322,16 @@ https://leetcode.com/u/madhavkaus04/
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
