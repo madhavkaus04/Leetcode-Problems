@@ -89,6 +89,7 @@ https://leetcode.com/u/madhavkaus04/
 | [1025-divisor-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1154-day-of-the-year) |
 | [1248-count-number-of-nice-subarrays](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -235,6 +236,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0141-linked-list-cycle](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Brainteaser
 |  |
 | ------- |
