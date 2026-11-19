@@ -30,6 +30,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0313-super-ugly-number) |
+| [0682-baseball-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0812-largest-triangle-area](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -171,6 +172,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0144-binary-tree-preorder-traversal](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -212,6 +214,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0067-add-binary](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
+| [0682-baseball-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [3959-check-good-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3959-check-good-integer) |
 ## Bracket Sequences
