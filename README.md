@@ -151,6 +151,7 @@ https://leetcode.com/u/madhavkaus04/
 | [1446-consecutive-characters](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3174-clear-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3174-clear-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -177,6 +178,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0735-asteroid-collision](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -218,6 +220,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [3174-clear-digits](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3174-clear-digits) |
 | [3959-check-good-integer](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/3959-check-good-integer) |
 ## Bracket Sequences
 |  |
