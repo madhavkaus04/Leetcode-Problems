@@ -145,6 +145,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0520-detect-capital](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1446-consecutive-characters) |
@@ -174,6 +175,7 @@ https://leetcode.com/u/madhavkaus04/
 | [0234-palindrome-linked-list](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/0735-asteroid-collision) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhavkaus04/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
